@@ -3,7 +3,7 @@
  * High speed Internet Connection
  * Good proxy list (http, https, socks4, socks5)
  * Google Chrome installed on your OS (not Chromium)
- * 
+
 # Windows
 * ## Binary Release
 
@@ -15,7 +15,7 @@
   
   Open command prompt and type
   ```
-  git clone https://github.com/MShawon/YouTube-Viewer.git --depth 10
+  git clone https://github.com/abimanyuhtu/YouTube-Viewer.git --depth 10
   ```
   ```
   cd YouTube-Viewer
